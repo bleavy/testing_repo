@@ -1,5 +1,5 @@
 #!/bin/bash
-ssh jenkins@leavytestvm.westus.cloudapp.azure.com "
+ssh jenkins@leavytestvm.westus2.cloudapp.azure.com "
 
 sudo yum install -y strace;
 
